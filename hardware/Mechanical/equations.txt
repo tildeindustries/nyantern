@@ -2,7 +2,7 @@
 "pattern X"= 3
 "Pattern Y"= 9
 "Base Innerline"= 0.34
-"lenght"= 200
+"lenght"= 254
 "PCB Thickness"= 1.65
 "Base Width"= 4.5
 "Base Outerline"= 1
