@@ -1,8 +1,8 @@
-﻿"Dinoskin scale"= 1.8
+﻿"Dinoskin scale"= 2.2
 "pattern X"= 3
 "Pattern Y"= 9
 "Base Innerline"= 0.34
-"lenght"= 254
+"lenght"= 252
 "PCB Thickness"= 1.65
 "Base Width"= 4.5
 "Base Outerline"= 1
