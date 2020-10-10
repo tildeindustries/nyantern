@@ -790,4 +790,45 @@ Text GLabel 3300 4000 0    50   Input ~ 0
 SK2812
 Wire Wire Line
 	3300 4000 3400 4000
+$Comp
+L Connector:Conn_01x04_Male J1
+U 1 1 5F7E570D
+P 550 6250
+F 0 "J1" H 658 6531 50  0000 C CNN
+F 1 "LED Panel Connector" H 750 6450 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 550 6250 50  0001 C CNN
+F 3 "~" H 550 6250 50  0001 C CNN
+	1    550  6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Vdrive #PWR0139
+U 1 1 5F7E72B2
+P 800 6150
+F 0 "#PWR0139" H 600 6000 50  0001 C CNN
+F 1 "Vdrive" V 800 6400 50  0000 C CNN
+F 2 "" H 800 6150 50  0001 C CNN
+F 3 "" H 800 6150 50  0001 C CNN
+	1    800  6150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0140
+U 1 1 5F7E8644
+P 800 6250
+F 0 "#PWR0140" H 800 6000 50  0001 C CNN
+F 1 "GND" V 800 6050 50  0000 C CNN
+F 2 "" H 800 6250 50  0001 C CNN
+F 3 "" H 800 6250 50  0001 C CNN
+	1    800  6250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1300 5750 1300 6350
+Wire Wire Line
+	1300 6350 750  6350
+Wire Wire Line
+	750  6250 800  6250
+Wire Wire Line
+	800  6150 750  6150
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-17201954301398596
+17217973595964057
 BamboulabFootprints
 02x02MilMax0633-0-15-15-15-27-10-0
 Mounting Hole 2.5mm
@@ -308,6 +308,13 @@ ESP32-OLED
 36
 36
 BamboulabFootprints
+EVQWGD001
+
+
+0
+6
+6
+BamboulabFootprints
 FC-B1010RGBT-HG
 
 
@@ -384,6 +391,13 @@ K1-1539SA-01
 0
 6
 6
+BamboulabFootprints
+Keystone_1096_1x18350
+Battery holder for 18350 cylindrical cells https://www.keyelco.com/product.cfm/For-Single-18350-Cells/1096P/product_id/14088
+18350 Keystone 1096 Li-ion
+0
+2
+2
 BamboulabFootprints
 KofBean_QR_F.Mask
 
@@ -48014,6 +48028,62 @@ Pin Bridges Copper
 0
 G-lib
 Pin Bridges SM
+
+
+0
+0
+0
+G-lib
+Side 1 Lantern
+
+
+0
+0
+0
+G-lib
+Side 1 Lantern - Back
+
+
+0
+0
+0
+G-lib
+Side 1 Lantern mask
+
+
+0
+0
+0
+G-lib
+Side 1 Lantern mask - back
+
+
+0
+0
+0
+G-lib
+Side 2 Lantern
+
+
+0
+0
+0
+G-lib
+Side 2 Lantern - Back
+
+
+0
+0
+0
+G-lib
+Side 2 Lantern mask
+
+
+0
+0
+0
+G-lib
+Side 2 Lantern mask - back
 
 
 0
