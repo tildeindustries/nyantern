@@ -85,9 +85,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "Gerbers/"))
   )
 
   (net 0 "")
@@ -101,6 +101,7 @@
     (uvia_drill 0.1)
   )
 
+  (gr_line (start 165.8 53) (end 165.8 51.4) (layer Edge.Cuts) (width 0.05) (tstamp 5F90B94E))
   (gr_line (start 130.8 121.2) (end 129.2 121.2) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C1394))
   (gr_line (start 172.8 79.2) (end 171.2 79.2) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C1392))
   (gr_line (start 129.2 121.2) (end 129.2 122.8) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C138D))
@@ -143,7 +144,6 @@
   (gr_line (start 135.8 148.6) (end 135.8 147) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C11C4))
   (gr_line (start 125.2 147) (end 134.2 147) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C11C3))
   (gr_line (start 165.8 53) (end 174.8 53) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C11C2))
-  (gr_line (start 165.8 51.4) (end 165.8 53) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 164.2 51.4) (end 165.8 51.4) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 164.2 53) (end 164.2 51.4) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 134.2 51.4) (end 134.2 53) (layer Edge.Cuts) (width 0.05) (tstamp 5F6C11C1))
